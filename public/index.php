@@ -1,6 +1,7 @@
 <?php
 
 /**
+ * Developed by Ayebare Karane <ayebzkerany@gmail.com>
  * Laravel - A PHP Framework For Web Artisans
  *
  * @package  Laravel
